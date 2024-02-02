@@ -1,0 +1,14 @@
+C:\Users\hugor\OneDrive\Documents\Workspace\projet-C-\Alfred\bin\Debug\net8.0\Alfred.exe
+C:\Users\hugor\OneDrive\Documents\Workspace\projet-C-\Alfred\bin\Debug\net8.0\Alfred.deps.json
+C:\Users\hugor\OneDrive\Documents\Workspace\projet-C-\Alfred\bin\Debug\net8.0\Alfred.runtimeconfig.json
+C:\Users\hugor\OneDrive\Documents\Workspace\projet-C-\Alfred\bin\Debug\net8.0\Alfred.dll
+C:\Users\hugor\OneDrive\Documents\Workspace\projet-C-\Alfred\bin\Debug\net8.0\Alfred.pdb
+C:\Users\hugor\OneDrive\Documents\Workspace\projet-C-\Alfred\obj\Debug\net8.0\Alfred.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugor\OneDrive\Documents\Workspace\projet-C-\Alfred\obj\Debug\net8.0\Alfred.AssemblyInfoInputs.cache
+C:\Users\hugor\OneDrive\Documents\Workspace\projet-C-\Alfred\obj\Debug\net8.0\Alfred.AssemblyInfo.cs
+C:\Users\hugor\OneDrive\Documents\Workspace\projet-C-\Alfred\obj\Debug\net8.0\Alfred.csproj.CoreCompileInputs.cache
+C:\Users\hugor\OneDrive\Documents\Workspace\projet-C-\Alfred\obj\Debug\net8.0\Alfred.dll
+C:\Users\hugor\OneDrive\Documents\Workspace\projet-C-\Alfred\obj\Debug\net8.0\refint\Alfred.dll
+C:\Users\hugor\OneDrive\Documents\Workspace\projet-C-\Alfred\obj\Debug\net8.0\Alfred.pdb
+C:\Users\hugor\OneDrive\Documents\Workspace\projet-C-\Alfred\obj\Debug\net8.0\Alfred.genruntimeconfig.cache
+C:\Users\hugor\OneDrive\Documents\Workspace\projet-C-\Alfred\obj\Debug\net8.0\ref\Alfred.dll
